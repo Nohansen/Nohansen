@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Employment
+* [Ministry of Finance](https://www.hacienda.go.cr/)
+* IADB
+
+## Projects
+1. Example 01
+2. Example 02
+3. Example 03
+
 <!--
 **Nohansen/Nohansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
